@@ -1,4 +1,4 @@
-# own copy of engineering project
+# My own copy of the second engineering project
 
 # Acebook
 
